@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "6.2.13",
+  "version": "6.2.14",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -35,10 +35,10 @@
     "lint": "tsdx lint src"
   },
   "dependencies": {
+    "@colligence/abstract-connector": "^6.2.14",
+    "@colligence/types": "^6.2.14",
     "@walletconnect/ethereum-provider": "^1.7.1",
     "@walletconnect/types": "^1.7.1",
-    "@colligence/abstract-connector": "^6.2.13",
-    "@colligence/types": "^6.2.13",
     "tiny-invariant": "^1.0.6"
   },
   "license": "GPL-3.0-or-later"
