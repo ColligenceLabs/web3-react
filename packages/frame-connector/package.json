@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/frame-connector",
+  "name": "@colligence/frame-connector",
   "publishConfig": {
     "access": "public"
   },
