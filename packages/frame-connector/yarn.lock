@@ -2,12 +2,17 @@
 # yarn lockfile v1
 
 
-"@web3-react/abstract-connector@^6.0.7":
-  version "6.0.7"
-  resolved "https://registry.yarnpkg.com/@web3-react/abstract-connector/-/abstract-connector-6.0.7.tgz#401b3c045f1e0fab04256311be49d5144e9badc6"
-  integrity sha512-RhQasA4Ox8CxUC0OENc1AJJm8UTybu/oOCM61Zjg6y0iF7Z0sqv1Ai1VdhC33hrQpA8qSBgoXN9PaP8jKmtdqg==
+"@colligence/abstract-connector@^6.2.13":
+  version "6.2.13"
+  resolved "https://registry.yarnpkg.com/@colligence/abstract-connector/-/abstract-connector-6.2.13.tgz#20428a4f121e1642ced90b7ea151e2eaa248bbe8"
+  integrity sha512-uCGEK22agDhQI4HckykM0ILjIZMCsTX1DzoGz7cIyIssHi2HsvB6ePPktI1/zobt2m2BKCi5FmI4yS1llRP6EA==
   dependencies:
     "@web3-react/types" "^6.0.7"
+
+"@colligence/types@^6.2.13":
+  version "6.2.13"
+  resolved "https://registry.yarnpkg.com/@colligence/types/-/types-6.2.13.tgz#bf67cd71b7722098b7f746a012f9ff913fc3a5c2"
+  integrity sha512-2ZVOL1AtZPFQepvHg/ktQHDFWfrnzkmzA+LQJSMuC/6NkeSPF+ntZm1Yg0ShC5WLtx+AmsC2rmj2fA2lwkbjoQ==
 
 "@web3-react/types@^6.0.7":
   version "6.0.7"
