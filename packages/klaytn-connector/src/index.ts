@@ -24,7 +24,7 @@ export class UserRejectedRequestError extends Error {
   }
 }
 
-export class InjectedConnector extends AbstractConnector {
+export class KlaytnConnector extends AbstractConnector {
   constructor(kwargs: AbstractConnectorArguments) {
     super(kwargs)
 
