@@ -21,7 +21,7 @@
   "author": "Noah Zinsmeister <noahwz@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NoahZinsmeister/web3-react.git"
+    "url": "https://github.com/SecuritInc/web3-react.git"
   },
   "main": "dist/index.js",
   "module": "dist/walletconnect-connector.esm.js",
