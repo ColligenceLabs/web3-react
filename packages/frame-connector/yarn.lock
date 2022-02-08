@@ -2,32 +2,15 @@
 # yarn lockfile v1
 
 
-"@colligence/abstract-connector@^6.2.13":
-  version "6.2.13"
-  resolved "https://registry.yarnpkg.com/@colligence/abstract-connector/-/abstract-connector-6.2.13.tgz#20428a4f121e1642ced90b7ea151e2eaa248bbe8"
-  integrity sha512-uCGEK22agDhQI4HckykM0ILjIZMCsTX1DzoGz7cIyIssHi2HsvB6ePPktI1/zobt2m2BKCi5FmI4yS1llRP6EA==
-  dependencies:
-    "@web3-react/types" "^6.0.7"
-
-"@colligence/types@^6.2.13":
-  version "6.2.13"
-  resolved "https://registry.yarnpkg.com/@colligence/types/-/types-6.2.13.tgz#bf67cd71b7722098b7f746a012f9ff913fc3a5c2"
-  integrity sha512-2ZVOL1AtZPFQepvHg/ktQHDFWfrnzkmzA+LQJSMuC/6NkeSPF+ntZm1Yg0ShC5WLtx+AmsC2rmj2fA2lwkbjoQ==
-
-"@web3-react/types@^6.0.7":
-  version "6.0.7"
-  resolved "https://registry.yarnpkg.com/@web3-react/types/-/types-6.0.7.tgz#34a6204224467eedc6123abaf55fbb6baeb2809f"
-  integrity sha512-ofGmfDhxmNT1/P/MgVa8IKSkCStFiyvXe+U5tyZurKdrtTDFU+wJ/LxClPDtFerWpczNFPUSrKcuhfPX1sI6+A==
-
 async-limiter@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/async-limiter/-/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
   integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
 
 cookiejar@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
-  integrity sha512-Mw+adcfzPxcPeI+0WlvRrr/3lGVO0bD75SxX6811cxSh1Wbxx7xZBGK1eVtDf6si8rg2lhnUjsVLMFMfbRIuwA==
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.3.tgz#fc7a6216e408e74414b90230050842dacda75acc"
+  integrity sha512-JxbCBUdrfr6AQjOXrxoTvAMJO4HBTUIlBzslcJPAz+/KT8yk53fXun51u+RenNYvad/+Vc2DIz5o9UxlCDymFQ==
 
 eth-provider@^0.2.5:
   version "0.2.5"
@@ -58,9 +41,9 @@ oboe@2.1.4:
     http-https "^1.0.0"
 
 tiny-invariant@^1.0.6:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/tiny-invariant/-/tiny-invariant-1.1.0.tgz#634c5f8efdc27714b7f386c35e6760991d230875"
-  integrity sha512-ytxQvrb1cPc9WBEI/HSeYYoGD0kWnGEOR8RY6KomWLBVhqz0RgTwVO9dLrGz7dC+nN9llyI7OKAgRq8Vq4ZBSw==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/tiny-invariant/-/tiny-invariant-1.2.0.tgz#a1141f86b672a9148c72e978a19a73b9b94a15a9"
+  integrity sha512-1Uhn/aqw5C6RI4KejVeTg6mIS7IqxnLJ8Mv2tV5rTc0qWobay7pDUz6Wi392Cnc8ak1H0F2cjoRzb2/AW4+Fvg==
 
 uuid@3.3.2:
   version "3.3.2"
