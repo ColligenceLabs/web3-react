@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "6.2.19",
+  "version": "6.2.20",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum Klaytn dApps like DeFi",
   "keywords": [
     "react",
@@ -36,8 +36,8 @@
   },
   "dependencies": {
     "@0x/subproviders": "^6.2.0",
-    "@colligence/abstract-connector": "^6.2.19",
-    "@colligence/types": "^6.2.19",
+    "@colligence/abstract-connector": "^6.2.20",
+    "@colligence/types": "^6.2.20",
     "eth-lattice-keyring": "^0.2.7"
   },
   "license": "GPL-3.0-or-later"
