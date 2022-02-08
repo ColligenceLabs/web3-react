@@ -1,5 +1,5 @@
-import { ConnectorUpdate } from '@web3-react/types'
-import { AbstractConnector } from '@web3-react/abstract-connector'
+import { ConnectorUpdate } from '@colligence/types'
+import { AbstractConnector } from '@colligence/abstract-connector'
 import invariant from 'tiny-invariant'
 
 type NetworkName = 'mainnet' | 'ropsten' | 'rinkeby' | 'kovan'

@@ -1,5 +1,5 @@
-import { AbstractConnector } from '@web3-react/abstract-connector'
-import { ConnectorUpdate } from '@web3-react/types'
+import { AbstractConnector } from '@colligence/abstract-connector'
+import { ConnectorUpdate } from '@colligence/types'
 
 interface TorusConnectorArguments {
   chainId: number
