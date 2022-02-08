@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "6.2.15",
+  "version": "6.2.16",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -36,8 +36,8 @@
   },
   "dependencies": {
     "@0x/subproviders": "^5.0.4",
-    "@colligence/abstract-connector": "^6.2.14",
-    "@colligence/types": "^6.2.14",
+    "@colligence/abstract-connector": "^6.2.16",
+    "@colligence/types": "^6.2.16",
     "trezor-connect": "^7.0.5"
   },
   "license": "GPL-3.0-or-later"
