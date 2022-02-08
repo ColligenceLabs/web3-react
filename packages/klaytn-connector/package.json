@@ -3,13 +3,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "6.2.17",
-  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
+  "version": "6.2.16",
+  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum Klaytn dApps",
   "keywords": [
     "react",
     "react-hooks",
     "hooks",
-    "klaytn",
+    "Ethereum",
     "javascript",
     "typescript",
     "web3",
