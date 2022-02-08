@@ -4,7 +4,7 @@
     "access": "public"
   },
   "version": "6.2.18",
-  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum Klaytn dApps",
+  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum Klaytn dApps like DeFi",
   "keywords": [
     "react",
     "react-hooks",
