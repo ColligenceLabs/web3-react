@@ -125,7 +125,7 @@ export function useWeb3ReactManager(): Web3ReactManagerReturn {
       onError?: (error: Error) => void,
       throwErrors: boolean = false
     ): Promise<void> => {
-      const updateBusterInitial = updateBusterRef.current
+      // const updateBusterInitial = updateBusterRef.current
 
       let activated = false
       try {
