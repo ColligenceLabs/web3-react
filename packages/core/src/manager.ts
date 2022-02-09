@@ -138,9 +138,10 @@ export function useWeb3ReactManager(): Web3ReactManagerReturn {
 
         const augmentedUpdate = await augmentConnectorUpdate(connector, update)
 
-        if (updateBusterRef.current > updateBusterInitial) {
-          throw new StaleConnectorError()
-        }
+        // TODO: Why?
+        // if (updateBusterRef.current > updateBusterInitial) {
+        //   throw new StaleConnectorError()
+        // }
         dispatch({ type: ActionType.ACTIVATE_CONNECTOR, payload: { connector, ...augmentedUpdate, onError } })
       } catch (error) {
         if (error instanceof StaleConnectorError) {
