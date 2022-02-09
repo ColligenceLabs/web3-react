@@ -78,7 +78,7 @@ export class KlaytnConnector extends AbstractConnector {
       window.klaytn.on('networkChanged', this.handleNetworkChanged)
     }
 
-    if ((window.klaytn as any).isMetaMask) {
+    if ((window.klaytn as any).isKaikas) {
       ;(window.klaytn as any).autoRefreshOnNetworkChange = false
     }
 
